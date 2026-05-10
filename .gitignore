@@ -1,0 +1,5 @@
+*.exe
+*.ttf
+*.ico
+__pycache__/
+*.pyc
